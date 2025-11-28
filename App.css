@@ -1,0 +1,14 @@
+*{
+  margin:0;
+}
+.quizbox{
+    border:2px solid rgb(202, 198, 198);
+    width:400px;
+    height:200px;
+    margin:0px;
+    text-align:center;
+    background-color:rgb(50, 54, 54);
+    border-radius:10px;
+    box-shadow:5px 5px 10px grey;
+    padding:0px;
+}
