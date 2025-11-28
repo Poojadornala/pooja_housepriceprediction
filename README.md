@@ -1,2 +1,1 @@
-hello
-mszd
+write something
